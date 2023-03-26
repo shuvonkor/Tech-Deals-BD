@@ -1,0 +1,14 @@
+*{
+    
+}
+/* Top bar  */
+.login-icon{
+    text-align: right;
+}
+/* Top bar  */
+
+/* Navbar  */
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+/* Navbar  */
